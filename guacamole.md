@@ -1,8 +1,8 @@
 # Guacamole
 ## Ingredients
-* avocado
-*lemon
-*salt
+* avocado = £2
+*lemon = £0.50
+*salt = £ 0.15
 
  
 ## Instructions
